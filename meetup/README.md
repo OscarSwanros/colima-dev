@@ -10,7 +10,7 @@ No importa si eres nuevo en la comunidad, tienes 20 años de experiencia,  reci�
 
 Si quieres participar como ponente en alguna edición futura de WDT:
 
-1. [Crea un nuevo _issue_ usando la plantilla](https://github.com/OscarSwanros/colima-dev/issues/new?assignees=OscarSwanros&labels=WDT%3AProposal&template=wdt-talk-proposal.md&title=). Asegúrate de llenar toda la información pertinente.
+1. [Crea un nuevo _issue_ usando la plantilla](https://github.com/OscarSwanros/colima-dev/issues/new?assignees=OscarSwanros&labels=WDT%3AProposal&template=wdt-talk-proposal.md&title=%5BWDT%5D+Propuesta+de+Charla). Asegúrate de llenar toda la información pertinente.
 2. Cuando crees el _issue_, algún miembro del comité organizador de WDT contactará para hacerte preguntas sobre tu charla, en caso de que haya que confirmar algo. 
 3. Se te notificará la fecha para la que tu charla está aceptada (se le asignará el _label_ correspondiente a tu issue). Puedes ver también el estado general en el [proyecto de GitHub](https://github.com/OscarSwanros/colima-dev/projects/1).
 4. Prepara tu presentación. Si crees que necesitas ayuda editando tu contenido, o te gustaría recibir feedback antes del evento para asegurarte que tu presentación será excelente, contacta a [Oscar Swanros](https://github.com/OscarSwanros/colima-dev/tree/master/dir#directorio). 
