@@ -15,6 +15,8 @@ Si quieres participar como ponente en alguna edición futura de WDT:
 3. Se te notificará la fecha para la que tu charla está aceptada (se le asignará el _label_ correspondiente a tu issue). Puedes ver también el estado general en el [proyecto de GitHub](https://github.com/OscarSwanros/colima-dev/projects/1).
 4. Prepara tu presentación. Si crees que necesitas ayuda editando tu contenido, o te gustaría recibir feedback antes del evento para asegurarte que tu presentación será excelente, contacta a [Oscar Swanros](https://github.com/OscarSwanros/colima-dev/tree/master/dir#directorio). 
 
+> 🚨 Si no estás familiarizado con GitHub, contacta a [Oscar Swanros](https://github.com/OscarSwanros/colima-dev/tree/master/dir#directorio) para que te asista y de todos modos tu propuesta de charla sea revisada. También puedes escribirnos a las redes sociales de WDT directamente.
+
 ## Lineamientos
 
 Si bien estamos más que contentos de recibir cualquier aportación que haga crecer a la comunidad, te pedimos adherirte a los siguientes lineamientos al momento de preparar tu presentación para WDT.
