@@ -1,7 +1,7 @@
 # Directorio
 
-A continuación encontrarás la lista de miembros de la comunidad.
+A continuación encontrarás la lista de miembros de la comunidad. [Agrega tu información](https://github.com/OscarSwanros/colima-dev/edit/master/dir/README.md).
 
-| Nombre | Tecnologías | Título | Empresa | Social Media | Disponible para mentor | Términos |
+| Nombre | Tecnologías | Título | Empresa | Social Media | Disponible para mentor | Te puedo ayudar con... |
 |--------|-------------|--------|---------|--------------|------------------------|----------|
-| Oscar Swanros | iOS, Swift, Objective-C | Sr. iOS Software Engineer | [PSPDFKit GmbH](https://pspdfkit.com) | [Instagram](https://instagram.com/swanros), [Twitter](https://twitter.com/swanros) | ✅ | Escríbeme por correo a oscar@swanros.com, o por Slack. |
+| Oscar Swanros | iOS, Swift, Objective-C | Sr. iOS Software Engineer | 👀 | [Instagram](https://instagram.com/swanros), [Twitter](https://twitter.com/swanros) | ✅ | Cuestiones de desarrollo móvil, arquitectura y diseño de aplicaciones, desarrollo profesional |
