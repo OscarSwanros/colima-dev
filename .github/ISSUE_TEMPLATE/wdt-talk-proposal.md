@@ -1,7 +1,7 @@
 ---
 name: WDT Talk Proposal
 about: Usa esta plantilla para enviar tu propuesta de charla para WDT.
-title: ''
+title: "[WDT] Propuesta de Charla"
 labels: WDT:Proposal
 assignees: OscarSwanros
 
