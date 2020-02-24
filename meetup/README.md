@@ -25,4 +25,4 @@ Si bien estamos más que contentos de recibir cualquier aportación que haga cre
 
 ## Puntos de contacto
 
-En caso de que tengas alguna pregunta, no dudes en dirigirte con algún miembro del comité organizador de WDT.
+En caso de que tengas alguna pregunta, no dudes en dirigirte con algún miembro del [comité organizador de WDT](https://github.com/OscarSwanros/colima-dev/tree/master/meetup/organizadores.md).
