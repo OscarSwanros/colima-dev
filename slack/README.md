@@ -17,7 +17,7 @@ Que no te de miedo participar, preguntar, y proponer en cualquiera de los canale
 - **#gordi**: Recomendaciones de lugares para comer.
 - **#melomanos**: Comparte tus rolas.
 - **#de-remate**: Compra y venta. Evita quitarle atención a algún producto que acaban de publicar. Si alguien está publicando aquí es porque quiere comprar o vender. Si preguntas "¿cuánto y por qué tan caro?" por troll, te arriesgas a un ban.
-- **tabletops**: Aquí se organizan salidas para darle un rato a los juegos de mesa. 
+- **#tabletops**: Aquí se organizan salidas para darle un rato a los juegos de mesa. 
 
 ### Canales de tecnología
 
