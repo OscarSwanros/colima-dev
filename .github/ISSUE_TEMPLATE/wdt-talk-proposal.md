@@ -1,17 +1,25 @@
 ---
 name: WDT Talk Proposal
-about: Usa esta plantilla para enviar tu propuesta de charla para WDT.
-title: "[WDT] Propuesta de Charla"
+about: Use this template to send your talk proposal for WDT.
+title: "[WDT] Talk Proposal"
 labels: WDT:Proposal
 assignees: OscarSwanros
 
 ---
 
-# Charla: _el título de tu charla_
+#  _The title of your talk_
 
-Usa este espacio para dar una descripción de tu charla. Explica lo más que puedas sobre por qué te gustaría hablar de ese tema, si has dado la plática antes, y el público objetivo de la misma.
+Use this space to briefly describe your talk. Explain as much as possible why you'd like to give it, if you've given it before, and the garget audience that this talk is intended to reach.
 
-## Sobre el ponente
+## About the speaker
 
-- Nombre
-- [Twitter](https://twitter.com/foobar)
+- Name: _Your name_
+- Company: _Where you work, if you'd like to share this_
+- [@twitter_handle](https://twitter.com/twitter_handle)
+
+## About your talk
+
+- [ ] I have read the [guidelines for WDT talks](https://github.com/OscarSwanros/colima-dev/tree/master/meetup#lineamientos). 
+- [ ] I will do live coding, or show a live demo
+- [ ] I need an HDMI connection
+- [ ] I need an USB-C connection
