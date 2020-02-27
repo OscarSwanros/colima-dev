@@ -9,7 +9,7 @@ assignees: OscarSwanros
 
 #  _The title of your talk_
 
-Use this space to briefly describe your talk. Explain as much as possible why you'd like to give it, if you've given it before, and the garget audience that this talk is intended to reach.
+Use this space to briefly describe your talk. Explain as much as possible why you'd like to give it, if you've given it before, and the target audience that this talk is intended to reach.
 
 ## About the speaker
 
