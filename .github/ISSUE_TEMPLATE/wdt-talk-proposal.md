@@ -19,7 +19,7 @@ Use this space to briefly describe your talk. Explain as much as possible why yo
 
 ## About your talk
 
-- [ ] I have read the [guidelines for WDT talks](https://github.com/OscarSwanros/colima-dev/tree/master/meetup#lineamientos). 
+- [ ] I have read the [guidelines for WDT talks](https://github.com/OscarSwanros/colima-dev/blob/master/meetup/README_en.md#guidelines). 
 - [ ] I will do live coding, or show a live demo
 - [ ] I need an HDMI connection
 - [ ] I need an USB-C connection
