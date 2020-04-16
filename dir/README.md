@@ -11,3 +11,5 @@ A continuación encontrarás la lista de miembros de la comunidad. [Agrega tu in
 | Rafael Magaña | Ruby, Golang, Elixir | Backend Web developer | Freelancer | [Twitter](https://twitter.com/rafmagana) | ✅ | Backend y Devops |
 | Edgar Polanco | Nodejs, Ruby, Python  | Sr Technical Project Manager | [Toptal Core](https://www.toptal.com/developers#desire-only-eye-opening-digital-project-managers) | [LinkedIn](https://www.linkedin.com/in/edgarpolancopmp/) | ✅ | Certificaciones de Project Management, PO/Scrum Master, Jira customizations (addons), Alexa Skills  |
 | Francisco Guzmán | Ruby on Rails | Web developer | Freelancer | [Twitter](https://twitter.com/panchew) | ✅ | Desarrollo Web y algo de Devops |
+| Francisco Guzmán | Ruby on Rails | Web developer | Freelancer | [Twitter](https://twitter.com/panchew) | ✅ | Desarrollo Web y algo de Devops |
+| David Raygoza | Laravel, Angular,Ionic, Flutter | Software Mid developer | [Techuso](http://www.techuso.com/) / Freelancer | [Linkedin](https://www.linkedin.com/in/davidraygoza/) | ✅ | Desarrollo Web y  Mobile |
